@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    PopeRigby poperigby@tuta.io @PopeRigby
 
 # THANKS
 
