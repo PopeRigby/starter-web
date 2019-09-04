@@ -16,6 +16,8 @@ This is a simple web project. Deployment can be on any server or even a local fi
 
 ## Contributing
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2019 PopeRigby
