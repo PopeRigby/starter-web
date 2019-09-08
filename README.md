@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2019 PopeRigby
+2019 PopeRigby. Creative Commons.
